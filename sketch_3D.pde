@@ -6,7 +6,7 @@ void setup(){
 
 void draw(){
   background(255);
-  //cube(width/2, height/2, 0, #7896DC, 200);
+  cube(width/2, height/2, 0, #7896DC, 200);
   //ball(width/2, height/2, 0, #7896DC, 300);
 }
 
